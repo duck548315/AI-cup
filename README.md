@@ -40,4 +40,4 @@
 
 - 執行完第三個儲存格會得到:
 - `xgb_model.pkl`: 發電量模型
-- `XGBoost_Predictions_xgb.csv.csv`: 預測結果
+- `XGBoost_Predictions_xgb.csv`: 預測結果
